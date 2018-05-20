@@ -43,7 +43,7 @@
     </repository>
   </repositories>
   <properties>
-    <microservice.resourceClasses>org.wso2.service.employee.EmployeeService</microservice.resourceClasses>
+    <microservice.resourceClasses>org.wso2.service.employee.EmployeeService, org.wso2.service.employee.EmployeesService</microservice.resourceClasses>
   </properties>
 </project>
 
